@@ -12,6 +12,7 @@ console.log(counter);
   }
   return (
     <>
+    <h1>react counter</h1>
       <button onClick={changeCounter}> Horia Haji {counter}</button>
     </>
   )
